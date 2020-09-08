@@ -49,7 +49,7 @@ if (dlgOpen.ShowDialog() == DialogResult.OK)
 }
 ```
 
-## How to compress using the library
+## How to decompress using the library
 ```C#
 Using System.IO.Compression;
 Using ZLib;
